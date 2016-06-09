@@ -1,0 +1,6 @@
+BASE_PATH = "$HOME/.vubtt/"
+COURSES_LIST_PATH = "courses.txt"
+IGNORED_ACTIVITIES_PATH = "ignored_activities.txt"
+IGNORED_SESSIONS_PATH = "ignored_sessions.txt"
+DATE_FORMAT = "%d/%m/%y"
+TIME_FORMAT = "%H:%M"
